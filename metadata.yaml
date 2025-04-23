@@ -1,0 +1,35 @@
+_repo: Le-desequilibre-du-monde_75820
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Le Bon, Gustave
+    aliases:
+    - Bon, Gustave Le
+    - Bon, Gustave le
+    birthdate: 1841
+    deathdate: 1931
+    gutenberg_agent_id: '239'
+    url: http://www.gutenberg.org/2009/agents/239
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Gustave_Le_Bon
+    - https://fr.wikipedia.org/wiki/Gustave_Le_Bon
+description: ''
+gutenberg_issued: '2025-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75820'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=inu.32000006718136
+pgterms:marc905: 20250308054437lebon
+pgterms:marc906: '1923'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This book was produced from images made available
+  by the HathiTrust Digital Library)
+publication_note: '  $aParis :$bErnest Flammarion, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le déséquilibre du monde
+url: http://www.gutenberg.org/ebooks/75820
