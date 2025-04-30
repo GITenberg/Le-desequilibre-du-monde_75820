@@ -1,5 +1,8 @@
 _repo: Le-desequilibre-du-monde_75820
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75820-h/images/cover.jpg
 creator:
   author:
     agent_name: Le Bon, Gustave
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Gustave_Le_Bon
     - https://fr.wikipedia.org/wiki/Gustave_Le_Bon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75820#Le-desequilibre-du-monde
 gutenberg_issued: '2025-04-08'
 gutenberg_type: Text
 identifiers:
